@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Agera Mvp</string>
+    <string name="title_friend_detail">Friend Detail</string>
+    <string name="error">Hubo un error...</string>
+</resources>
