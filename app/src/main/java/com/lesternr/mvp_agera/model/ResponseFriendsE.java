@@ -5,7 +5,7 @@ import com.google.gson.annotations.SerializedName;
 import java.util.ArrayList;
 
 /**
- * Created by jmtech on 4/20/16.
+ * Created by LSTR on 4/20/16.
  */
 public class ResponseFriendsE {
     @SerializedName("results")

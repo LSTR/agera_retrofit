@@ -18,7 +18,7 @@ import butterknife.Bind;
 import butterknife.ButterKnife;
 
 /**
- * Created by jmtech on 4/20/16.
+ * Created by LSTR on 4/20/16.
  */
 public class FriendAdapter extends RecyclerView.Adapter<FriendAdapter.ViewHolder> {
 

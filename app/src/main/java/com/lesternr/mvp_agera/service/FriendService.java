@@ -22,7 +22,7 @@ import retrofit.http.GET;
 import retrofit.http.Query;
 
 /**
- * Created by JMTech-Android on 10/12/2015.
+ * Created by LSTR on 10/12/2015.
  */
 public class FriendService{
     protected Retrofit retrofit;

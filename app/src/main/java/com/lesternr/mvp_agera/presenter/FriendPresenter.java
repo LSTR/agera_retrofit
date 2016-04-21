@@ -11,7 +11,7 @@ import com.lesternr.mvp_agera.model.FriendE;
 import java.util.ArrayList;
 
 /**
- * Created by jmtech on 4/20/16.
+ * Created by LSTR on 4/20/16.
  */
 public class FriendPresenter implements Updatable {
 
