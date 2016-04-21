@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="rvadapter-1.0.0-RC1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.android.agera/rvadapter/1.0.0-RC1/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.android.agera/rvadapter/1.0.0-RC1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.agera/rvadapter/1.0.0-RC1/7713ad3af1383cb32fd45be948d55e18dbc13928/rvadapter-1.0.0-RC1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

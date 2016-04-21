@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="net-1.0.0-RC1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.android.agera/net/1.0.0-RC1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.android.agera/net/1.0.0-RC1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.agera/net/1.0.0-RC1/103ae7d5fe2218c8839dd656d01fe66f2f57c767/net-1.0.0-RC1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

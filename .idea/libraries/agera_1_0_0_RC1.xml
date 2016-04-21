@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="agera-1.0.0-RC1">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.android.agera/agera/1.0.0-RC1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.android.agera/agera/1.0.0-RC1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.android.agera/agera/1.0.0-RC1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.agera/agera/1.0.0-RC1/2f38f9cc1812b2958f1385230079cbe41ab9603b/agera-1.0.0-RC1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,2 +1,159 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_a58261a57e17b4134d5de0c832ed15fc76138047.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/exploded-aar/com.google.android.agera/net/1.0.0-RC1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="224a610004abd1c2c217f862618db458a2a076a4">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/com.google.android.agera-net-1.0.0-RC1_cb841e310ac3afa9a57419ed2ee118c80aa11f36.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/exploded-aar/com.google.android.agera/agera/1.0.0-RC1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a1e23b6716ccc920ab46f2480f9f779901bd94ce">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/com.google.android.agera-agera-1.0.0-RC1_9e299508f0a96f876fcd92d7609e0d29d95c6a74.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/gson-2.3.1_c157e9ab105e853b235f3e0a8edcc1353ba7a308.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_f61b0806847122be48e5675e089ce99b64ef6d08.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_aef0affc864642c5c033100f1c2a6c86aa287073.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta2_9b6be7d29aaf793ead2dae19fd9f98c6da02191d.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_7e537c092fc02d19f930cbcb5607f056f075231e.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_23cd3fbe40aa7d860b4c462316f92d1bd24c6f86.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/exploded-aar/com.google.android.agera/rvadapter/1.0.0-RC1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b75bea163865e82776540d206fb72bd85e9f439a">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/com.google.android.agera-rvadapter-1.0.0-RC1_a96f4f68a38b7bb8b6b66a34b0d7624b2a68c734.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_33de7e0321025aaa714cb6a8bc907022e5b36f96.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/exploded-aar/com.android.support/percent/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1badcc3d0af60cfcab190ea7b78d060e824cfb1e">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/com.android.support-percent-23.1.1_4dd99eef0d528ceeeca08e05a6c046a7964e6301.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/okio-1.6.0_649a2f6bd27c6281128ccc7733d535d3cdfe997b.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/logging-interceptor/2.6.0/77dc6e1eedd47953b41ef936f20b9b693fe73f6f/logging-interceptor-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="77dc6e1eedd47953b41ef936f20b9b693fe73f6f">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/logging-interceptor-2.6.0_f82ca870a3a66d4d29c806398594e97c8a80a131.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_386161363e4c99364324e418530d8b793090127c.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_cabb6e321a59cf1ebe1e159471b84b602bece888.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta2_f1abca45a3e70d05a06402b8a6c40076fb17a424.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.87.0/6b0bd924be0cc3374f32df089ede9dcea6bdef97/realm-android-0.87.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6b0bd924be0cc3374f32df089ede9dcea6bdef97">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/realm-android-0.87.0_b2cd13e8a98ac1338a593d81c894e6f53483cdd1.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_0c527c56ff95f1cab6845f7e0d3c7a78d5ba00bd.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.6.0/212387a39088ecd3daff8e3bfc3bdc4123e33c67/okhttp-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/okhttp-2.6.0_94d8f77615cb91a8dc48819f8d64cfb269f23494.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_86d8983064e6d25e26b01b98d815bdc7e4883f14.jar" />
+    </item>
+    <item
+        jar="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/jmtech/Documents/DevJM/Android/agera_mvp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_ecb41ec86b3e678664954476edfd0158bf2491dd.jar" />
+    </item>
+
+</items>
