@@ -1,13 +1,13 @@
-package com.lesternr.mvp_agera.observable;
+package com.lesternr.app.observable;
 
 import android.support.annotation.NonNull;
 
 import com.google.android.agera.BaseObservable;
 import com.google.android.agera.Supplier;
 import com.google.android.agera.Updatable;
-import com.lesternr.mvp_agera.model.FriendE;
-import com.lesternr.mvp_agera.model.ResponseFriendsE;
-import com.lesternr.mvp_agera.service.FriendService;
+import com.lesternr.app.model.FriendE;
+import com.lesternr.app.model.ResponseFriendsE;
+import com.lesternr.app.service.FriendService;
 
 import java.util.ArrayList;
 

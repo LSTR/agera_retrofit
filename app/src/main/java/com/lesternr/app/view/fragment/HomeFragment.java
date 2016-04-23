@@ -1,4 +1,4 @@
-package com.lesternr.mvp_agera.view.fragment;
+package com.lesternr.app.view.fragment;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -10,10 +10,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
-import com.lesternr.mvp_agera.R;
-import com.lesternr.mvp_agera.model.FriendE;
-import com.lesternr.mvp_agera.presenter.FriendPresenter;
-import com.lesternr.mvp_agera.view.adapter.FriendAdapter;
+import com.lesternr.app.R;
+import com.lesternr.app.model.FriendE;
+import com.lesternr.app.presenter.FriendPresenter;
+import com.lesternr.app.view.adapter.FriendAdapter;
 
 import java.util.ArrayList;
 
