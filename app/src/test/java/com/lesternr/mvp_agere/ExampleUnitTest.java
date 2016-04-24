@@ -1,4 +1,4 @@
-package com.lesternr.mvp_agera;
+package com.lesternr.agera_app;
 
 import org.junit.Test;
 

@@ -1,10 +1,10 @@
-package com.lesternr.app.service;
+package com.lesternr.agera_app.service;
 
 import com.google.gson.ExclusionStrategy;
 import com.google.gson.FieldAttributes;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.lesternr.app.model.ResponseFriendsE;
+import com.lesternr.agera_app.model.ResponseFriendsE;
 import com.squareup.okhttp.Interceptor;
 import com.squareup.okhttp.OkHttpClient;
 import com.squareup.okhttp.Request;

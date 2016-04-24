@@ -1,12 +1,12 @@
-package com.lesternr.app.presenter;
+package com.lesternr.agera_app.presenter;
 
 import android.content.Context;
 import android.support.v4.widget.SwipeRefreshLayout;
 
 import com.google.android.agera.Updatable;
-import com.lesternr.app.observable.FriendRepository;
-import com.lesternr.app.observable.OnRefreshObservable;
-import com.lesternr.app.model.FriendE;
+import com.lesternr.agera_app.observable.FriendRepository;
+import com.lesternr.agera_app.observable.OnRefreshObservable;
+import com.lesternr.agera_app.model.FriendE;
 
 import java.util.ArrayList;
 

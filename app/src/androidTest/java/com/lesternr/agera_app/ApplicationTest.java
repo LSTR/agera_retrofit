@@ -1,4 +1,4 @@
-package com.lesternr.app;
+package com.lesternr.agera_app;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

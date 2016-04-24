@@ -1,4 +1,4 @@
-package com.lesternr.app.view.adapter;
+package com.lesternr.agera_app.view.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -8,8 +8,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.lesternr.app.R;
-import com.lesternr.app.model.FriendE;
+import com.lesternr.agera_app.R;
+import com.lesternr.agera_app.model.FriendE;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;

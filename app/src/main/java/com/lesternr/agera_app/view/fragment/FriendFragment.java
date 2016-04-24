@@ -1,4 +1,4 @@
-package com.lesternr.app.view.fragment;
+package com.lesternr.agera_app.view.fragment;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -10,10 +10,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
-import com.lesternr.app.R;
-import com.lesternr.app.model.FriendE;
-import com.lesternr.app.presenter.FriendPresenter;
-import com.lesternr.app.view.adapter.FriendAdapter;
+import com.lesternr.agera_app.R;
+import com.lesternr.agera_app.model.FriendE;
+import com.lesternr.agera_app.presenter.FriendPresenter;
+import com.lesternr.agera_app.view.adapter.FriendAdapter;
 
 import java.util.ArrayList;
 
@@ -23,7 +23,7 @@ import butterknife.ButterKnife;
 /**
  * Created by LSTR on 4/20/16.
  */
-public class HomeFragment extends Fragment implements FriendPresenter.FriendView {
+public class FriendFragment extends Fragment implements FriendPresenter.FriendView {
 
     @Bind(R.id.rv_friend_list) RecyclerView recyclerView;
     @Bind(R.id.refresh_layout) SwipeRefreshLayout swipeRefreshLayout;

@@ -1,4 +1,4 @@
-package com.lesternr.app.observable;
+package com.lesternr.agera_app.observable;
 
 import android.support.v4.widget.SwipeRefreshLayout;
 import com.google.android.agera.BaseObservable;

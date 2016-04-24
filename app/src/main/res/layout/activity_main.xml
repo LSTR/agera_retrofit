@@ -20,7 +20,7 @@
 
     </android.support.design.widget.AppBarLayout>
 
-    <fragment android:name="com.lesternr.mvp_agera.view.fragment.HomeFragment"
+    <fragment android:name="com.lesternr.agera_app.view.fragment.FriendFragment"
         android:id="@+id/fragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

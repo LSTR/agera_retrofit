@@ -1,10 +1,10 @@
-package com.lesternr.app.view.activity;
+package com.lesternr.agera_app.view.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
-import com.lesternr.app.R;
+import com.lesternr.agera_app.R;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;

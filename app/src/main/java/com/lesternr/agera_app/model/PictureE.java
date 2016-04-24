@@ -1,4 +1,4 @@
-package com.lesternr.app.model;
+package com.lesternr.agera_app.model;
 
 import com.google.gson.annotations.SerializedName;
 
