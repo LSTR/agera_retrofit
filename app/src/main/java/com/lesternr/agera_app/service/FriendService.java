@@ -59,7 +59,6 @@ public class FriendService{
                 .baseUrl(base_url)
                 .client(client)
                 .addConverterFactory(GsonConverterFactory.create(gson))
-//                .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
                 .build();
         apiService = retrofit.create(FriendServiceApi.class);
     }
