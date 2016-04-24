@@ -1,5 +1,7 @@
 # Hello Google Agera - Retrofit
-(https://github.com/LSTR/agera_retrofit/blob/master/android_agera.jpg)
+
+(./android_agera.jpg)
+
 This is a sample project for learning purposes.
 ** I'm exploring Agera(Rx for Android) and for this example i'm consuming rest API with retrofit 2.0 **
 
