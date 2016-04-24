@@ -4,7 +4,7 @@
 
 This is a sample project for learning purposes.
 
-** I'm exploring Agera(Rx for Android) and for this example i'm consuming rest API with retrofit 2.0 **
+I'm exploring Agera(Rx for Android) and for this example i'm consuming rest API with retrofit 2.0
 
 
 ##How does it works?
